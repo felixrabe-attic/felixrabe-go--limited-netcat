@@ -9,7 +9,7 @@ import (
 )
 
 func usage() {
-	fmt.Println("Usage: netcat [-l] host port")
+	fmt.Println("Usage: limited-netcat [-l] host port")
 	os.Exit(1)
 }
 
