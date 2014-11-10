@@ -4,7 +4,7 @@
 //
 // Installation:
 //
-//     go get github.com/felixrabe/limited-netcat
+//     go get github.com/felixrabe-go/limited-netcat
 //
 // Usage:
 //
@@ -13,8 +13,8 @@
 package main
 
 import (
-	"github.com/felixrabe/limited-netcat/flags"
-	"github.com/felixrabe/limited-netcat/net"
+	"github.com/felixrabe-go/limited-netcat/flags"
+	"github.com/felixrabe-go/limited-netcat/net"
 )
 
 func main() {

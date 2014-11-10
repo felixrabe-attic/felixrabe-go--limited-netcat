@@ -5,7 +5,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/felixrabe/limited-netcat/errors"
+	"github.com/felixrabe-go/limited-netcat/errors"
 )
 
 func usage() {

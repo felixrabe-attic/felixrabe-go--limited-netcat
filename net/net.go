@@ -6,7 +6,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/felixrabe/limited-netcat/errors"
+	"github.com/felixrabe-go/limited-netcat/errors"
 )
 
 // Listen waits for another host to connect.
